@@ -1,0 +1,30 @@
+h1 {
+  font-size: 36pt;
+}
+h2 {
+font-size: 20pt;
+margin:0;
+}
+
+
+body {
+    background-color: #CCFF99;
+  }
+
+img {position:relative;
+    top:  -10px;
+    left: 445px;}
+
+a:link {
+    color: blue;
+    font-size: 14pt;
+  }
+
+  a:visited {
+    color: #660099;
+    font-size: 14pt;
+  }
+
+p {
+  font-size: 12pt;
+}
